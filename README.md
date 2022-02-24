@@ -1,5 +1,5 @@
 - 👋 @FabioSilvaaN
-- 📚 ETE - Porto Digital - Análise e Desenvolvimento de Sistemas
+- 📚 ETE - Porto Digital - Desenvolvimento de Sistemas
 - 🌐 Logística
 <!---
 FabioSilvaaN/FabioSilvaaN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
