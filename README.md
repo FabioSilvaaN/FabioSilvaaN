@@ -1,4 +1,5 @@
 
+- Oi, eu sou o Fábio Nascimento! ✌
 - 📊 Hoje trabalho com Logística
 - 📚 Estudante Desenvolvimento de Sistemas - ETE Porto Digital
 
